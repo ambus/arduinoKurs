@@ -1,0 +1,21 @@
+
+# compiled output
+/tmp
+/dist
+
+# IDEs and editors
+/.idea
+.history
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+src/styles.css
+
+# kurs
+FORBOT_materialy_dodatkowe_v1/
